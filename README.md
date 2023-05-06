@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm eL</h1>
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<h3 align="center">Cuma suka ngoding:)</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.Cn69B_9_3HioBS-imZ3_RAHaIx&pid=Api&P=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elxlyn&label=Profile%20views&color=0e75b6&style=flat" alt="elxlyn" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **axigibrielsandra18@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny ceritanya**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
