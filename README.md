@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" height="200" src="https://media.tenor.com/FUuj2aFK3MIAAAAd/idleglance-amv.gif">
 <h1 align="center">Hi 👋, I'm eL</h1>
-<h3 align="center">Cuma suka ngoding:)</h3>
+<h3 align="center">Halo gais:)</h3>
 <img align="right" alt="Coding" width="300" src="https://tse4.mm.bing.net/th?id=OIP.Cn69B_9_3HioBS-imZ3_RAHaIx&pid=Api&P=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elxlyn&label=Profile%20views&color=0e75b6&style=flat" alt="elxlyn" /> </p>
